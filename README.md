@@ -1,2 +1,2 @@
-Pdf to Images : https://github.com/JatinChoudhary1712/pdf_to_images
-Line detector crop : https://github.com/JatinChoudhary1712/line-detect-crop
+- Pdf to Images : https://github.com/JatinChoudhary1712/pdf_to_images
+- Line detector crop : https://github.com/JatinChoudhary1712/line-detect-crop
